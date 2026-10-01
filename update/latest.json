@@ -1,15 +1,15 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "buildNumber": "3",
-  "releaseDate": "2026-09-30",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "buildNumber": "4",
+  "releaseDate": "2026-10-01",
   "mandatory": false,
-  "title": "SolarCleaningPro v1.0.2",
+  "title": "SolarCleaningPro v1.0.3",
   "releaseNotes": [
-    "Automated production release for v1.0.2 (Build 3)",
+    "Automated production release for v1.0.3 (Build 4)",
     "Global Dynamic Theme Engine & Activity/History Navigation",
     "PZEM Energy Monitoring & Hardware RTC Sync"
   ],
-  "downloadUrl": "https://github.com/harshaltapre/Solarcleaningpro_releases/releases/download/v1.0.2-b3/SolarCleaningPro-v1.0.2.apk",
-  "sha256": "60b2b0fcff479f4e4e48b7524f72b641a78eea227e61e9d2b74aac303054746a"
+  "downloadUrl": "https://github.com/harshaltapre/Solarcleaningpro_releases/releases/download/v1.0.3-b4/SolarCleaningPro-v1.0.3.apk",
+  "sha256": "018a49bfa0f88428b78d9085e2fa003741897b5ff79a107115c040597b119500"
 }
