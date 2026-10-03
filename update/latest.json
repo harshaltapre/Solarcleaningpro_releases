@@ -2,7 +2,7 @@
   "versionCode": 5,
   "versionName": "1.1.0",
   "buildNumber": "5",
-  "releaseDate": "2026-10-01",
+  "releaseDate": "2026-10-03",
   "mandatory": false,
   "title": "SolarCleaningPro v1.1.0",
   "releaseNotes": [
@@ -11,5 +11,5 @@
     "PZEM Energy Monitoring & Hardware RTC Sync"
   ],
   "downloadUrl": "https://github.com/harshaltapre/Solarcleaningpro_releases/releases/download/v1.1.0-b5/SolarCleaningPro-v1.1.0.apk",
-  "sha256": "cc659ddafa6b42d31c534e479817e1ad17f427ded7d396544b57036f9dd62da1"
+  "sha256": "f316cb1c9f96ed54bb8406ab4b48bf48b30189e45e2b1c2e4451209b7ba11d0b"
 }
